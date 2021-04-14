@@ -1,4 +1,4 @@
-# behavioural-clusters
+# Behavioural-Clusters-and-STIs
 Codes used to produce the results in "Unsupervised machine learning identifies long-term behavioural patterns and  predicts future sexual behaviour and sexually transmitted infections among HIV-positive men who have sex with men"
 
 The codes are structured as pictured:
